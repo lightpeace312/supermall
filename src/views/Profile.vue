@@ -1,6 +1,6 @@
 <template>
   <div>
-    首页
+    我的档案
   </div>
 </template>
 
